@@ -1,14 +1,12 @@
 # practice_456
-<!DOCTYPE html>
-<html>
-<head>Example</head>
+<Head>
 <body>
 <h1>Welcome</h1>
-<p>blah blah blah</p>
-<li>Things to do</li>
-<ul>Item1</ul>
-<ul>Item2</ul>
-<ul>Item3</ul>
-<p>The end</p>
+<p>This is my page</p>
+<li>Things to do in no particular order</li>
+<ul>Practice</ul>
+<ul>Practice</ul>
+<ul>Read</ul>
+<ul>Practice</ul>
+<p>The end.</p>
 </body>
-</html>
