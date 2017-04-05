@@ -1,5 +1,4 @@
 # practice_456
-# New line to practice file
 <Head>
 <body>
 <h1>Welcome</h1>
